@@ -1,0 +1,12 @@
+2018-05-09 17:16:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "CLIENT" no encontrada
+Table "CLIENT" not found; SQL statement:
+insert into client values(10001) [42102-197]
+2018-05-09 17:24:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "CLIENT" no encontrada
+Table "CLIENT" not found; SQL statement:
+insert into client values(10001) [42102-197]
+2018-05-09 17:27:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "CLIENT" no encontrada
+Table "CLIENT" not found; SQL statement:
+insert into client values(10001) [42102-197]
