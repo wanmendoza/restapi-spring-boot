@@ -1,10 +1,11 @@
-package com.wanmendoza.restapi.model;
+package com.wanmendoza.restapi.models;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 @Entity
 @Table(name = "cliente")
-public class Client {
+public class Client implements Serializable {
 
     @Id
     @GeneratedValue
